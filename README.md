@@ -1,4 +1,4 @@
-# Registration_Form
+# Registration Form
 the project is  about securing a registration web page that was filled with vulnerabilities 
 we secured it by the following changes:
 - hashing the password.
