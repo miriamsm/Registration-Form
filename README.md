@@ -1,6 +1,6 @@
-# registration_WebPage
+# Registration_Form
 the project is  about securing a registration web page that was filled with vulnerabilities 
-we secured it by the following changes/
+we secured it by the following changes:
 - hashing the password.
 - changing the value to POST of the HTML form's METHOD attribute to hide sensitive/personal information from the third party.
 - adding a Strong password policy
